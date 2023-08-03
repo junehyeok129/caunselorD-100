@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>iPhone 14 - 2</title>
+  <link rel="stylesheet" href="./styles/iphone-14-2.css"/>
+  <style>
+    /* 이미지 트랜지션 효과 */
+    .item-2-1-Vow {
+      transition: opacity 2s ease-in-out;
+    }
+  </style>
+</head>
+<body>
+<div class="iphone-14-2-VQd">
+  <img class="item-5-2-CK3" src="./assets/logo.png"/>
+  <!-- 아래의 요소에서 id="randomImage"가 이미 포함되어 있습니다. 랜덤 이미지가 여기에 표시될 것입니다. -->
+  <img class="item-2-1-Vow" id="randomImage" src="./assets/-BEh.png"/> 
+  <a href="https://instagram.com/caunselor_?igshid=MzRlODBiNWFlZA==" target="_blank">
+    <img class="item-4-1-1XP" src="./assets/event_content.png"/>
+  </a>
+  <div class="elevated-vPT">
+    <img class="item-2-1-4Em" onclick="redirectToIphone14_1()" src="./assets/initial_page.png"/>
+  </div>
+</div>
+<script>
+  function redirectToIphone14_1() {
+    window.location.href = "iphone-14-1.html";
+  }
+
+  // 여기에 이미지 파일 경로를 담은 배열을 만듭니다.
+  const imageArray = [
+    "./assets/random_card/1.png",
+    "./assets/random_card/2.png",
+    "./assets/random_card/3.png",
+    // 필요한 만큼 더 이미지 경로를 추가합니다.
+  ];
+
+  // 랜덤한 이미지를 설정하는 함수를 만듭니다.
+  function setRandomImage() {
+    const randomIndex = Math.floor(Math.random() * imageArray.length);
+    const randomImage = imageArray[randomIndex];
+    const imageElement = document.getElementById("randomImage");
+
+    // 이미지가 나타날 때 투명도가 0에서 1로 서서히 변경되도록 설정합니다.
+    imageElement.style.opacity = 0;
+    imageElement.src = randomImage;
+    setTimeout(() => {
+      imageElement.style.opacity = 1;
+    }, 100); // 0.1초 후에 투명도를 1로 설정하여 부드럽게 나오는 효과를 줍니다.
+  }
+
+  // 페이지가 로드될 때와 버튼을 클릭할 때 랜덤한 이미지를 설정하는 함수를 호출합니다.
+  setRandomImage();
+</script>
+</body>
+</html>
