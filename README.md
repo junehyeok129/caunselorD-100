@@ -27,7 +27,7 @@ Prototype developed for internal release on August 3, 2023.<br/>
 Press the button to display an image with a cheering phrase.<br/>
 And click on the phrase below to go to Counselor Instagram.<br/><br/>
 
-### ver1.1<br/>
+### Ver1.1<br/>
 The image of the random card has been changed.<br/>
 Additional designers have been registered.<br/>
 Some code fixes were made.
