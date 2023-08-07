@@ -20,7 +20,11 @@ However, for non-profit purposes, please contact with @junhxuk.
 참조된 아이디는 인스타그램 아이디입니다.<br/>
 The referenced ID is an Instagram ID.
 
-
+I study artificial intelligence.<br/>
+I am studying app creation as a hobby.<br/>
+These days, I am studying flutter, and my main major is researching Text to Speak technology. In particular, I am studying Transformer and Diffusion in depth.
+### Tool
+Develop : Figma, HTML, CSS<br/>
 Page : [https://junehyeok129.github.io/caunselorD-100/iphone-14-1.html](https://junehyeok129.github.io/caunselorD-100/iphone-14-1.html)
 ## Updates<br/>
 ### Ver1.0<br/>
