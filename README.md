@@ -21,7 +21,7 @@ However, for non-profit purposes, please contact with @junhxuk.
 The referenced ID is an Instagram ID.
 
 I study artificial intelligence.<br/>
-I am studying app creation as a hobby.<br/>
+I am studying app development as a hobby.<br/>
 These days, I am studying flutter, and my main major is researching Text to Speak technology. In particular, I am studying Transformer and Diffusion in depth.
 ### Tool
 Develop : Figma, HTML, CSS<br/>
