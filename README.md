@@ -3,7 +3,7 @@
 This page is for the Chung-Ang University Admissions Ambassador Counselor 2024 CSAT D-100 event.
 
 저작자 : 중앙대학교 입학 홍보대사 카운슬러 12기 최준혁, 현지수, 배성연, [@caunselor_](https://www.instagram.com/caunselor_)<br/>
-Developer: Choi Jun-hyuk, Hyun Ji-soo, Seongyeon Bae  (@caunselor_, 12th Chung-Ang University Admissions Ambassador Counselor)<br/>
+Developer: Choi Jun-hyuk, Hyun Ji-soo, Seongyeon Bae  ([@caunselor_](https://www.instagram.com/caunselor_), 12th Chung-Ang University Admissions Ambassador Counselor)<br/>
 
 디자인 참조 : 푸앙이 [@puang_daddy](https://www.instagram.com/puang_daddy)<br/>
 Design reference: [@puang_daddy](https://www.instagram.com/puang_daddy)
