@@ -1,6 +1,6 @@
 # caunselorD-100
-## 중앙대학교 입학 홍보대사 카운슬러 2024 수능 D-100 이벤트를 위한 페이지입니다.<br/>
-## This page is for the Chung-Ang University Admissions Ambassador Counselor 2024 CSAT D-100 event.
+중앙대학교 입학 홍보대사 카운슬러 2024 수능 D-100 이벤트를 위한 페이지입니다.<br/>
+This page is for the Chung-Ang University Admissions Ambassador Counselor 2024 CSAT D-100 event.
 
 저작자 : 중앙대학교 입학 홍보대사 카운슬러 12기 최준혁, 현지수, 배성연, @caunselor_<br/>
 Author: Choi Jun-hyuk, Hyun Ji-soo, Seongyeon Bae and @caunselor_, 12th Chung-Ang University Admissions Ambassador Counselor<br/>
