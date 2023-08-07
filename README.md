@@ -4,9 +4,9 @@ This page is for the Chung-Ang University Admissions Ambassador Counselor 2024 C
 
 저작자 : 중앙대학교 입학 홍보대사 카운슬러 12기 최준혁, 현지수, 배성연, [@caunselor_](https://www.instagram.com/caunselor_)<br/>
 Developer: Choi Jun-hyuk, Hyun Ji-soo, Seongyeon Bae  (@caunselor_, 12th Chung-Ang University Admissions Ambassador Counselor)<br/>
-Design reference: [@puang_daddy](https://www.instagram.com/puang_daddy)
 
-디자인 참조 : 푸앙이 [@puang_daddy](https://www.instagram.com/puang_daddy)
+디자인 참조 : 푸앙이 [@puang_daddy](https://www.instagram.com/puang_daddy)<br/>
+Design reference: [@puang_daddy](https://www.instagram.com/puang_daddy)
 
 해당 저작물은 비영리적 목적으로 제작된 컨텐츠입니다.<br/>
 This work is content created for non-profit purposes.
