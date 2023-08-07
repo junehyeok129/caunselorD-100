@@ -14,7 +14,7 @@ This work is content created for non-profit purposes.
 해당 저작물의 무단 배포 및 2차 저작을 금지합니다.<br/>
 Unauthorized distribution of the work and secondary work are prohibited.
 
-단 비영리적 목적의 경우 @junhxuk과 협의 바랍니다.<br/>
+단 비영리적 목적의 경우 [@junhxuk](https://www.instagram.com/junhxuk)과 협의 바랍니다.<br/>
 However, for non-profit purposes, please contact with [@junhxuk](https://www.instagram.com/junhxuk). 
 
 참조된 아이디는 인스타그램 아이디입니다.<br/>
